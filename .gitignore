@@ -1,0 +1,15 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+# Configurações do PyCharm (JetBrains)
+.idea/
+
+# Arquivos compilados do Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de variáveis de ambiente (onde ficam suas senhas/tokens)
+.env
